@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏢 Altoken
+# 🏢 Altoken.io
 
 ### Democratizando la Inversión Inmobiliaria con Blockchain
 
@@ -42,6 +42,22 @@ Plataforma que democratiza el acceso a inversiones inmobiliarias a través de to
 2. **Explora** → Propiedades verificadas con análisis detallado
 3. **Invierte** → Compra tokens con tu método de pago preferido
 4. **Gana** → Recibe ingresos pasivos mensuales automáticamente
+
+## 🎯 Nuestros Objetivos
+
+- 🌐 Hacer accesible la tecnología blockchain para todos
+- 🤝 Reforzar la colaboración público-privada en el ecosistema blockchain
+- 💡 Impulsar innovadores modelos de negocio en la economía digital
+- 🔗 Apoyar el desarrollo de redes blockchain impulsadas por nuestros aliados
+- 📚 Promover el conocimiento de blockchain mediante casos de uso prácticos y reales
+
+## 🌍 Presencia Internacional
+
+Somos referentes en los principales organismos que definen el futuro de las tecnologías DLT:
+
+**Miembros activos de:** Blockchain Partnership • Blockchain Services Infrastructure • ESSIF • INATBA • LACChain
+
+**Organismos de estandarización:** UNE • CEN/CENELEC • ISO • ITU
 
 ---
 
