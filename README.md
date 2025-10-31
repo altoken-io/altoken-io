@@ -1,12 +1,11 @@
 <div align="center">
 
-# 🏢 Altoken.io
+# 🏢 Altoken
 
-### Democratizando la Inversión Inmobiliaria con Blockchain
+**Tokenizando Latinoamérica mediante blockchain**
 
 [![Website](https://img.shields.io/badge/🌐-altoken.io-blue?style=for-the-badge)](https://altoken-io.vercel.app/)
 [![Hedera](https://img.shields.io/badge/Powered%20by-Hedera-purple?style=for-the-badge)](https://hedera.com)
-
 
 </div>
 
@@ -14,10 +13,10 @@
 
 ## 🎯 ¿Qué es Altoken?
 
-Plataforma que democratiza el acceso a inversiones inmobiliarias a través de tokenización. Eliminamos las barreras de entrada permitiendo inversiones fraccionadas en propiedades de alta calidad.
+Plataforma que facilita el acceso a inversiones inmobiliarias a través de tokenización blockchain.
 
-**💡 Características clave:**
-- 🔐 Propiedades auditadas por expertos independientes
+**💡 Características:**
+- 🔐 Propiedades auditadas por expertos
 - 💰 Retornos por alquiler y apreciación
 - 🌍 Acceso global 24/7
 
@@ -38,26 +37,19 @@ Plataforma que democratiza el acceso a inversiones inmobiliarias a través de to
 
 ## 🚀 Cómo Funciona
 
-1. **Regístrate** → Verificación segura en minutos
-2. **Explora** → Propiedades verificadas con análisis detallado
-3. **Invierte** → Compra tokens con tu método de pago preferido
-4. **Gana** → Recibe ingresos pasivos mensuales automáticamente
+**Regístrate** → **Explora** → **Invierte** → **Gana**
 
-## 🎯 Nuestros Objetivos
+## 🎯 Objetivos
 
-- 🌐 Hacer accesible la tecnología blockchain para todos
-- 🤝 Reforzar la colaboración público-privada en el ecosistema blockchain
-- 💡 Impulsar innovadores modelos de negocio en la economía digital
-- 🔗 Apoyar el desarrollo de redes blockchain impulsadas por nuestros aliados
-- 📚 Promover el conocimiento de blockchain mediante casos de uso prácticos y reales
+- 🌐 Hacer accesible la tecnología blockchain
+- 🤝 Reforzar colaboración público-privada
+- 💡 Impulsar modelos de negocio en economía digital
+- 📚 Promover conocimiento mediante casos de uso reales
 
 ## 🌍 Presencia Internacional
 
-Somos referentes en los principales organismos que definen el futuro de las tecnologías DLT:
-
-**Miembros activos de:** Blockchain Partnership • Blockchain Services Infrastructure • ESSIF • INATBA • LACChain
-
-**Organismos de estandarización:** UNE • CEN/CENELEC • ISO • ITU
+**Miembros:** Blockchain Partnership • BSI • ESSIF • INATBA • LACChain  
+**Estandarización:** UNE • CEN/CENELEC • ISO • ITU
 
 ---
 
